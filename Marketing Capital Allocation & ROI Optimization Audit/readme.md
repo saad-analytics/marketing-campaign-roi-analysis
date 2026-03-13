@@ -23,16 +23,16 @@ B. The Social Category (Capital Inefficiency)
     Primary Friction Point: facebook_lal shows a critical performance gap with an $8,986 CPO and a -0.88 ROI.
     The "Wide" Strategy Leak: Broad-targeting campaigns (google_wide, facebook_tier2) are consistently underperforming compared to intent-based "Hot" targeting.
 
-4. STRATEGIC REALLOCATION PLAN (Projected Impact)
-PRIORITY	RECOMMENDATION	RATIONALE	CAPITAL AT RISK
-🚀 SCALE	YouTube Blogger	Proven ability to maintain high ROI (2.77) at scale.	Move $2M+ here
-🛑 CEASE	Facebook LAL	Unsustainable CPO ($8,986) and negative net return.	$2.6M Inefficient Spend
-📉 REDUCE	Broad Targeting	google_wide and facebook_tier2 show negative margins.	$6.9M Inefficient Spend
-📈 TEST	Facebook Retargeting	High efficiency (1.01 ROI) on low volume; potential for scaling.	Increase allocation
-5. BUSINESS CONCLUSION & NEXT STEPS
-By addressing the $9.6M in underperforming spend identified in this audit, the business has a clear path to shift from a "break-even" 0.37 ROI toward a projected 1.10+ ROI.
-Proposed Discussion Points for Stakeholders:
-
-    Should we consider pausing wide-target campaigns given their consistent negative ROI?
-    Do we have the operational capacity to increase Influencer spend by 25% to capitalize on the 1.54 category ROI?
-    Would a weekly automated Performance Audit be beneficial to flag campaigns exceeding a specific CPO threshold ($3,000+) in real-time?
+4. STRATEGIC REALLOCATION PLAN (Projected Impact)  
+PRIORITY	RECOMMENDATION	RATIONALE	CAPITAL AT RISK  
+🚀 SCALE	YouTube Blogger	Proven ability to maintain high ROI (2.77) at scale.	Move $2M+ here  
+🛑 CEASE	Facebook LAL	Unsustainable CPO ($8,986) and negative net return.	$2.6M Inefficient Spend  
+📉 REDUCE	Broad Targeting	google_wide and facebook_tier2 show negative margins.	$6.9M Inefficient Spend  
+📈 TEST	Facebook Retargeting	High efficiency (1.01 ROI) on low volume; potential for scaling.	Increase allocation  
+5. BUSINESS CONCLUSION & NEXT STEPS  
+By addressing the $9.6M in underperforming spend identified in this audit, the business has a clear path to shift from a "break-even" 0.37 ROI toward a projected 1.10+ ROI. 
+Proposed Discussion Points for Stakeholders:  
+  
+    Should we consider pausing wide-target campaigns given their consistent negative ROI?  
+    Do we have the operational capacity to increase Influencer spend by 25% to capitalize on the 1.54 category ROI?  
+    Would a weekly automated Performance Audit be beneficial to flag campaigns exceeding a specific CPO threshold ($3,000+) in real-time?  
